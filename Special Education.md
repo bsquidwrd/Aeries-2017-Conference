@@ -15,4 +15,3 @@ Tabs of information
 - Almost no reason to have records under Discipline
   - Should go under `Student Data -> Guidance -> Assertive Discipline`
 - "Student is Special Ed" is shown if the student was SpEd when the incident occurred. Otherwise, it will say "Student was not Special Ed during incident"
-- 
