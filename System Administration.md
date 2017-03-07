@@ -1,4 +1,4 @@
-Reporting Service/Server
+Reporting Service/Server (Session 910)
 =====
 `C:\AppSettings` contains settings (can be found in IIS -> Under the site (probably "Default Site") -> Properties of the `AppSettings` folder)
 If you make a change to `C:\AeriesReporting\AeriesReportingConfig.config` then copy it to `C:\AppSettings` to make sure they are up to date.
